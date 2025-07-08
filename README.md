@@ -1,0 +1,47 @@
+# My Data Analytics Portfolio 📊
+
+Welcome to my data analytics portfolio!  
+Here I showcase real-world projects that apply data cleaning, analysis, and visualization using tools like Python, Excel, Google Sheets, and Tableau.
+
+Each project folder contains a separate `README.md` file with detailed explanations, files, and dashboards.
+
+---
+
+## 📁 Projects Overview
+
+### 1. 🧠 Student Depression Analysis
+- **Tools Used:** Python (Pandas), Tableau, Google Sheets
+- **Summary:** Explores the relationship between student depression, academic pressure, sleep duration, and city of residence.
+- 🔗 [View Project Folder](./student-depression)
+- 📊 [Tableau Dashboard](https://public.tableau.com/app/profile/zhansaya.nessipbek/vizzes)
+
+---
+
+### 2. 🏬 Superstore Sales Analysis
+- **Tools Used:** Tableau, Python
+- **Summary:** A business performance analysis covering profit trends, product performance, customer segments, and regional sales.
+- 🔗 [View Project Folder](./superstore-sales)
+- 📊 [Tableau Dashboard](https://public.tableau.com/app/profile/zhansaya.nessipbek/vizzes)
+
+---
+
+### 3. 👶 US Births (2016–2021) Analysis
+- **Tools Used:**  Tableau Public, Python 
+- **Summary:** National birth trends over six years, analyzed by year, state, maternal age, and education level.
+- 🔗 [View Project Folder](./us-births-2016-2021)
+- 📊 [Tableau Dashboard](https://public.tableau.com/app/profile/zhansaya.nessipbek/vizzes)
+
+---
+
+## 🔧 Tools & Skills Highlighted
+
+- 📊 Tableau dashboards for storytelling
+- 🐍 Python (Pandas, Matplotlib) for data wrangling and EDA
+- 📈 Excel & Google Sheets for pivot tables and quick KPIs
+- 🧼 Cleaning, transforming, and interpreting real datasets
+
+---
+
+Feel free to explore each project folder for more detail.  
+If you have questions, feel free to contact me on https://www.linkedin.com/in/zhansaya-nessipbek-0710a0372/!
+
