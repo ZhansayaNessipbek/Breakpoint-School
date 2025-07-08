@@ -1,2 +1,0 @@
-# Breakpoint-School
-Hello, world!
